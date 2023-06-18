@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a.filled-button {
-	background-color: #1a6ffb;
+	background-color: #016738;
 	color: #fff;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -49,7 +49,7 @@ a.filled-button {
 
 a.filled-button:hover {
 	background-color: #fff;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 a.border-button {
@@ -67,7 +67,7 @@ a.border-button {
 
 a.border-button:hover {
 	background-color: #fff;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 .section-heading {
@@ -83,7 +83,7 @@ a.border-button:hover {
 
 .section-heading em {
 	font-style: normal;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 .section-heading span {
@@ -97,7 +97,7 @@ a.border-button:hover {
 
 #preloader {
 	overflow: hidden;
-	background: #1a6ffb;
+	background: #016738;
 	left: 0;
 	right: 0;
 	top: 0;
@@ -181,7 +181,7 @@ a.border-button:hover {
 /* Sub Header Style */
 
 .sub-header {
-	background-color: #1a6ffb;
+	background-color: #016738;
 	height: 46px;
 	line-height: 46px;
 }
@@ -266,7 +266,7 @@ header .navbar {
 }
 
 .background-header .navbar-brand h2 {
-	color: #1a6ffb !important;
+	color: #016738 !important;
 }
 
 .background-header .navbar-nav a.nav-link {
@@ -278,7 +278,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.current,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #1a6ffb !important;
+	color: #016738 !important;
 }
 
 .navbar .navbar-brand {
@@ -330,8 +330,8 @@ header .navbar {
 .navbar .navbar-nav .nav-link.current,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show>.nav-link {
-	color: #1a6ffb;
-	border-bottom: 3px solid #1a6ffb;
+	color: #016738;
+	border-bottom: 3px solid #016738;
 }
 
 .navbar .navbar-toggler-icon {
@@ -351,7 +351,7 @@ header .navbar {
 
 .navbar .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #1a6ffb;
+	color: #016738;
 	font-size: 18px;
 	line-height: 26px;
 	font-family: 'FontAwesome';
@@ -487,7 +487,7 @@ ul.slick-dots {
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 1px;
-	color: #1a6ffb;
+	color: #016738;
 	animation: fadeOutRight 1s both;
 }
 
@@ -626,7 +626,7 @@ ul.slick-dots {
 /* Request Form */
 
 .request-form {
-	background-color: #1a6ffb;
+	background-color: #016738;
 	padding: 40px 0px;
 	color: #fff;
 }
@@ -710,7 +710,7 @@ ul.slick-dots {
 
 .fun-facts em {
 	font-style: normal;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 .fun-facts p {
@@ -731,7 +731,7 @@ ul.slick-dots {
 
 .count-digit {
 	margin: 5px 0px;
-	color: #1a6ffb;
+	color: #016738;
 	font-weight: 700;
 	font-size: 36px;
 }
@@ -790,7 +790,7 @@ ul.slick-dots {
 
 .more-info .right-content em {
 	font-style: normal;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 .more-info .right-content p {
@@ -835,7 +835,7 @@ ul.slick-dots {
 	margin-top: 8px;
 	font-weight: 600;
 	font-size: 14px;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 .testimonial-item img {
@@ -869,7 +869,7 @@ ul.slick-dots {
 }
 
 .callback-form .contact-form {
-	background-color: #1a6ffb;
+	background-color: #016738;
 	padding: 60px;
 	border-radius: 5px;
 	text-align: center;
@@ -949,11 +949,11 @@ ul.slick-dots {
 
 .callback-form .contact-form button.border-button:hover {
 	background-color: #fff;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 .contact-us .contact-form button.filled-button {
-	background-color: #1a6ffb;
+	background-color: #016738;
 	color: #fff;
 	border: none;
 	font-size: 13px;
@@ -971,7 +971,7 @@ ul.slick-dots {
 
 .contact-us .contact-form button.filled-button:hover {
 	background-color: #fff;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 
@@ -1004,7 +1004,7 @@ ul.slick-dots {
 /* Footer Style */
 
 footer {
-	background-color: #1a6ffb;
+	background-color: #016738;
 	padding: 80px 0px;
 	color: #fff;
 }
@@ -1041,13 +1041,13 @@ footer ul.social-icons li a {
 	line-height: 34px;
 	text-align: center;
 	background-color: #fff;
-	color: #1a6ffb;
+	color: #016738;
 	border-radius: 50%;
 	transition: all 0.3s;
 }
 
 footer ul.social-icons li a:hover {
-	background-color: #1a6ffb;
+	background-color: #016738;
 }
 
 footer ul.menu-list li {
@@ -1065,7 +1065,7 @@ footer ul.menu-list li a {
 }
 
 footer ul.menu-list li a:hover {
-	color: #1a6ffb;
+	color: #016738;
 }
 
 footer .contact-form input {
@@ -1130,7 +1130,7 @@ footer .contact-form ::placeholder {
 footer .contact-form button.filled-button {
 	background-color: transparent;
 	color: #fff;
-	background-color: #1a6ffb;
+	background-color: #016738;
 	border: none;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -1147,7 +1147,7 @@ footer .contact-form button.filled-button {
 
 footer .contact-form button.filled-button:hover {
 	background-color: #fff;
-	color: #1a6ffb;
+	color: #016738;
 }
 
 
@@ -1225,7 +1225,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .team-item .down-content span {
-	color: #1a6ffb;
+	color: #016738;
 	font-weight: 600;
 	font-size: 14px;
 	display: block;
@@ -1263,7 +1263,7 @@ footer .contact-form button.filled-button:hover {
 	width: 100%;
 	padding: 30px 30px;
 	display: inline-block;
-	background-color: #1a6ffb;
+	background-color: #016738;
 	font-size: 20px;
 	color: #121212;
 	letter-spacing: 0.5px;
@@ -1332,7 +1332,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .contact-information .contact-item i {
-	color: #1a6ffb;
+	color: #016738;
 	font-size: 48px;
 	margin-bottom: 40px;
 }
@@ -1350,7 +1350,7 @@ footer .contact-form button.filled-button:hover {
 
 .contact-information .contact-item a {
 	font-weight: 600;
-	color: #1a6ffb;
+	color: #016738;
 	font-size: 15px;
 }
 
@@ -1488,7 +1488,7 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .nav-link.current,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #1a6ffb !important;
+		color: #016738 !important;
 		border-bottom: none !important;
 	}
 }
