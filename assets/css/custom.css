@@ -430,6 +430,11 @@ header .navbar {
 	box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
 }
 
+.Modern-Slider .item-5 .img-fill {
+	background-image: url(../images/showroom.jpg);
+	box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+}
+
 .Modern-Slider .NextArrow {
 	position: absolute;
 	top: 50%;
